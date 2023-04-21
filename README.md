@@ -1,0 +1,2 @@
+# Curriculum-Material-Recommendation
+In this project, we built a recommendation algorithm for subject topics using their descriptions and material descriptions. The data was cleaned through feature filtering and stop words filtering. The cleaned data was fed to a Word2Vec algorithm using the Gensim Library. The final algorithm made use a simple matching algorithm by using the trained Word2Vec model as a scoring function. 
